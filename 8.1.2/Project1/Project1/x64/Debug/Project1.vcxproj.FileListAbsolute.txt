@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\main 8\8.1.2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\main 8_2\8.1.2\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
